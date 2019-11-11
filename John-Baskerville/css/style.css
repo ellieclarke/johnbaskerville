@@ -1,21 +1,24 @@
 /*--------- CSS Reset ------*/
 
-*(
+*{
     padding:0;
     margin:0;
     font-size:100%;
     line-height: 1em;
-)
+}
 
 /*------- HEADING STYLE -----*/
 
 body {
     width: 70%;
-        max-width: 600px;
+        max-width: 670px;
        margin: auto;
     background: #fafafa;
-    color: #333
-        
+    color: #333;
+    
+    
+   
+    
     
     }
 
@@ -23,12 +26,12 @@ body {
 
 h1, h2, h3 
 {font-weight: normal;
-color: #8F0040
-    red;
+color: #8F0040;
+    
     text-align: center;
 }
 
-
+p,cite{font-family: 'Libre Baskerville', serif;}
 p, blackquote {
     margin-bottom: 1.5em;
     line-height: 1.4;
@@ -42,4 +45,24 @@ h2 {font-size: 1.999em;
     margin: 1em 0 1em 0;}
 
 h3 {font-size: 1.414em;
-    margin-bottom: 1.5em;}
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    font-family: 'Libre Baskerville', serif;}
+
+blockquote{
+    font-size: 1.5em;
+    hanging-punctuation: first;
+    text-indent: -0.45;
+}
+
+cite{
+    font-size: 1em;
+}
+
+/*------FOOTER-------*/
+footer{
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 2em 0;
+    
+}
