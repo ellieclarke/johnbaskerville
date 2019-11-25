@@ -69,15 +69,48 @@ nav ul {
     
     
     
+}
+
+/*-----TABLE SETTING*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+caption {
     
-    
-    
-    
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
     
 }
 
 
+th {
+    
+    color: white;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background-color: brown;
+    
+}
 
+th, td {
+    
+    padding: 0.5em;
+}
+
+
+/*--------FOOTER-------*/
+footer {
+    
+    
+}
 
 
 
