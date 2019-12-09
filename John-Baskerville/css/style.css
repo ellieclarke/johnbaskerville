@@ -7,6 +7,30 @@
     line-height: 1em;
 }
 
+
+article {
+    display: flex
+}
+
+.main {
+    
+    flex: 4;
+    padding-right: 1em;
+    
+}
+
+aside {
+    flex: 1;
+    font-size: 0.75em;
+    font-style: italic;
+    border-left: 1px solid black;
+    padding-left: 1em;
+}
+
+
+
+
+
 /*------- HEADING STYLE -----*/
 
 body {
@@ -175,6 +199,43 @@ table, td {
 }
 
 
+
+
+/*-----ICONS-----*/
+
+.connections ul {
+    
+    margin: 0;
+    padding: 0;
+}
+
+.connections li {
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+
+}
+
+.connections a:link {
+    
+    border-bottom: none;
+}
+
+.connections img {
+    
+    opacity: 0.5;
+    border: none;
+}
+
+.connections a:hover img {
+    
+    opacity: 1.0;
+    border-bottom: none;
+    transform: all 0.3s ease-in-out
+}
+
+
 /*------IMAGES------*/
 
 
@@ -186,17 +247,6 @@ img {
     max-width: 100%;
     
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
