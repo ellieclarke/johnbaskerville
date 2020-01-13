@@ -4,4 +4,4 @@
 
 Saul Bass Website
 (GitHub/John-Baskerville/saulbass/saulbass2.html)
-(https://ellieclarke.github.io/gitHub/John-Baskerville/saulbass/saulbass2.html)
+(https://github.com/ellieclarke/johnbaskerville/blob/master/John-Baskerville/saulbass/saulbass2.html)
