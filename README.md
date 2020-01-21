@@ -7,7 +7,7 @@ Saul Bass Website
 (https://github.com/ellieclarke/johnbaskerville/blob/master/John-Baskerville/saulbass/saulbass2.html)
 
 
-Version 1 Baskerville (John-Baskerville/baserville1.html)
+Version 1 Baskerville (https://GitHub.com/ellieclarke/johnbaskerville/John-Baskerville/baserville1.html)
 Version 2 Baskerville (John-Baskerville/baserville2.html)
 Version 3 Baskerville (John-Baskerville/baserville3.html)
 Version 4 Baskerville (John-Baskerville/baserville4.html)
